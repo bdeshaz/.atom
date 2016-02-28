@@ -1,0 +1,33 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "7dd13f76-febf-4129-9a15-d6a238ce6387"
+  "atom-material-ui":
+    panelContrast: true
+    rippleAccentColor: true
+    slimScrollbar: true
+    tabSize: "Small"
+    useRoboto: true
+  "atom-typescript": {}
+  "autocomplete-plus": {}
+  "browser-plus": {}
+  core:
+    disabledPackages: [
+      "navigate"
+      "whitespace"
+    ]
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    fontSize: 11
+    invisibles: {}
+  "exception-reporting":
+    userId: "67b40a55-cb0e-16db-ebf7-f46b88e46d36"
+  navigate: {}
+  "remote-edit": {}
+  "symbols-tree-view":
+    autoToggle: true
+  welcome:
+    showOnStartup: false
+  "you-complete-me": {}
