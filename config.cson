@@ -1,12 +1,6 @@
 "*":
   "atom-beautify":
     _analyticsUserId: "7dd13f76-febf-4129-9a15-d6a238ce6387"
-  "atom-material-ui":
-    panelContrast: true
-    rippleAccentColor: true
-    slimScrollbar: true
-    tabSize: "Small"
-    useRoboto: true
   "atom-typescript": {}
   "autocomplete-plus": {}
   "browser-plus": {}
